@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelserwin
 - 👀 I’m interested in being an software developer...
-- 🌱 I have currently learned  HTML,CSS,JavaScript,PYTHON,JAVA,SQL...and going on
+- Knowledge in fullstack
 - 💞️ I’m looking to collaborate on a Software Solution...
 - 📫 How to reach me ph:+918940654340 Email:miketroy345678@gmail.com
 
