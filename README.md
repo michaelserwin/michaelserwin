@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 " />
   </a>
-  <a href="https://leetcode.com/u/ferrusbelsingh/">
+  <a href="https://leetcode.com/u/Michael_Serwin07/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
     <a href="https://stackoverflow.com/users/19332074/belzinghferi">
