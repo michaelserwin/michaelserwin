@@ -58,7 +58,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,angular,vuejs,mysql,mongodb"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,gitlab,github,git,pycharm,babel" /><br>
-    <img src="https://skillicons.dev/icons?i=xd,ps,ae,figma," /><br>
+    <img src="https://skillicons.dev/icons?i=xd,ps,ae,ai,figma," /><br>
 </div>
 
 <br/>
