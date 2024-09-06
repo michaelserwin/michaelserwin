@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Candara&weight=900&size=43&duration=1000&pause=300&color=3355ff&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=150&lines=Hello+there!;I+am+Michael Serwin" />
+    <img src="https://readme-typing-svg.demolab.com?font=brushscript&weight=900&size=43&duration=1000&pause=300&color=3355ff&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=150&lines=Hello+there!;I+am+Michael Serwin" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
