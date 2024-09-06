@@ -56,9 +56,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript," /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,firebase,postgres"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,linux,unreal," /><br>
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,angularjs,antdesign"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,gitbash,pycharm,jsfiddle,babel" /><br>
+    <img src="https://skillicons.dev/icons?i=xd,figma,canva" /><br>
 </div>
 
 <br/>
