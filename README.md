@@ -56,7 +56,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,angular,vuejs,mysql,mongoDB"/><br>
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,angular,vuejs,mysql,mongodb"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,git,pycharm,babel" /><br>
     <img src="https://skillicons.dev/icons?i=xd,ps,ae,figma," /><br>
 </div>
