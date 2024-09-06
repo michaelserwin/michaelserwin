@@ -57,7 +57,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript," /><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,angularjs,antdesign"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitbash,pycharm,jsfiddle,babel" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,babel" /><br>
     <img src="https://skillicons.dev/icons?i=xd,figma,canva" /><br>
 </div>
 
