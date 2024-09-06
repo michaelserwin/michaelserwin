@@ -56,9 +56,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,angular,vuejs,mysql,"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,git,pycharm,babel,windows" /><br>
-    <img src="https://skillicons.dev/icons?i=xd,ps,ae,figma,agile,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,angular,vuejs,mysql,mongoDB"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,git,pycharm,babel" /><br>
+    <img src="https://skillicons.dev/icons?i=xd,ps,ae,figma," /><br>
 </div>
 
 <br/>
