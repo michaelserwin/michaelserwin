@@ -17,7 +17,7 @@
 
 💬 Ask me about **Node.js, React, or anything [here]((https://github.com/michaelserwin/michaelserwin))**
 
-⚡ Fun fact **A group of pigs is called a “crowd”.**
+⚡ Fun fact **Baked beans are not actually "baked".**
 
  </div>
 <br/>
