@@ -29,7 +29,7 @@
   <a href="www.linkedin.com/in/belsingh-ferrus-660839212" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Belsinghferrus" target="_blank">
+  <a href="https://github.com/michaelserwin" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
       <br />
@@ -67,8 +67,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" >
-  <img width=390 src="https://streak-stats.demolab.com?user=Belsinghferrus%20&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belsinghferrus&layout=compact&theme=transparent" alt="top langs" />
+  <img width=390 src="https://streak-stats.demolab.com?user=michaelserwin%20&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="streak stats"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelserwin&layout=compact&theme=transparent" alt="top langs" />
 </div>
 
 <br/><br/>
