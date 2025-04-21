@@ -33,7 +33,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
       <br />
-  <a href="https://www.instagram.com/sherwin._.f_i.z/">
+  <a href="https://www.instagram.com/mikey._.z.x/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href=" https://x.com/serwin30811?s=08">
